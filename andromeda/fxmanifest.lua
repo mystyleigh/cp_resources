@@ -6,4 +6,4 @@ description 'helpful AI called Andromeda'
 version '1.0.0'
 
 -- What to run
-client_script "main.lua"
+client_script 'client/main.lua'
